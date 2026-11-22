@@ -12,6 +12,15 @@ Unlike conventional data-driven neural operators, the default GA-VINO training w
 >
 > Local article: [GA-VINO.pdf](./GA-VINO.pdf)
 
+
+<p align="center">
+  <img src="./GA-VINO.png" alt="Overall framework of GA-VINO" width="95%">
+</p>
+
+<p align="center">
+  <em>Overall framework of the proposed GA-VINO method.</em>
+</p>
+
 ---
 
 ## Features
