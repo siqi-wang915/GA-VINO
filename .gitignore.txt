@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
